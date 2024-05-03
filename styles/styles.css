@@ -30,12 +30,12 @@ main {
 }
 
 aside {
-    width: 150px;
-    margin: 50px;
+    width: 20em;
+    margin: 1em;
     border: 1px solid rgb(9, 33, 53);
-    padding: 2px;
+    padding: 2em;
     background-color: rgb(48, 48, 83);
-    color: #2f0f85;
+    color: #f6f6f7;
     text-align: center;
 }
 
