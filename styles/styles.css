@@ -32,15 +32,15 @@ main {
 aside {
     width: 600px;
     margin: 50px;
-    border: 5px solid rgb(9, 33, 53);
+    border: 1px solid rgb(9, 33, 53);
     padding: 2px;
-    background-color: rgb(12, 50, 133);
+    background-color: rgb(14, 59, 155);
     color: #7f8383;
     text-align: center;
 }
 
 aside img {
-    width: 250px;
+    width: 150px;
     height: auto;
 }
 
