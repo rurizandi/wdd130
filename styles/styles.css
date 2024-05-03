@@ -40,8 +40,8 @@ aside {
 }
 
 aside img {
-    width: 325px;
-    height: 100px;
+    width: 200px;
+    height: auto;
 }
 
 footer {
